@@ -1,0 +1,2 @@
+--System Audit schema
+CREATE SCHEMA INSHORTS_DB.SYS_AUDIT;
